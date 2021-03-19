@@ -94,11 +94,19 @@ h2{
 
   .highlight {
     text-decoration: underline;
-    color: chartreuse;
+    color: rgb(0, 38, 255);
     font-weight: bolder;
     font-style: oblique;
   }
 
-  
+  .about-me {
+    font-family: monospace;
+    color: coral;
+    font-size: large;
+  }
 
-
+  .background {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+    font-size: large;
+  }
