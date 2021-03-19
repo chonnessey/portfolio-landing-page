@@ -36,7 +36,7 @@ h2{
 
  .Columns {
    border: solid black;
-   background-color: dimgrey;
+   background-color: bisque;
    width: 10%;
    border-width: 3px;
    padding: 10px;
@@ -84,6 +84,7 @@ h2{
 
   .lines {
     text-decoration: underline;
+    font-weight: bold;
   }
 
   p {
