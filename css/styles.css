@@ -14,4 +14,7 @@ h2{
   font-weight: bold;
   text-align: justify;
   margin-top: 20px;
-  }
+  background-color: darkseagreen;
+  border: solid black;
+  width: 15%;
+ }
