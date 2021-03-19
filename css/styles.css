@@ -68,6 +68,22 @@ h2{
     background-color: darkorange;
   }
 
+  .links {
+    border: solid black;
+    background-color: bisque;
+    width: 35%;
+    border-width: 3px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .lines {
+    text-decoration: underline;
+  }
+
   
 
 
