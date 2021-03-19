@@ -29,6 +29,19 @@ h2{
    background-color: darkseagreen;
    border: solid black;
    width: 25%;
- }
+  }
+
+ .Columns {
+   border: solid black;
+   background-color: dimgrey;
+   width: 10%;
+   float: left;
+   border-width: 3px;
+   padding: 10px;
+   margin-bottom: 20px;
+   box-sizing: border-box;
+   margin-top: 20px;
+   margin-left: 20px;
+  }
 
 
