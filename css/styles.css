@@ -92,6 +92,13 @@ h2{
     margin-left: 20px;
   }
 
+  .highlight {
+    text-decoration: underline;
+    color: chartreuse;
+    font-weight: bolder;
+    font-style: oblique;
+  }
+
   
 
 
