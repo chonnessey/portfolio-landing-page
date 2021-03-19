@@ -110,3 +110,10 @@ h2{
     color: chocolate;
     font-size: large;
   }
+
+  .mc {
+    font-weight: bolder;
+    font-size: larger;
+    color: crimson;
+    text-decoration: underline;
+  }
