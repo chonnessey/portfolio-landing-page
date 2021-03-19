@@ -35,7 +35,6 @@ h2{
    border: solid black;
    background-color: dimgrey;
    width: 10%;
-   float: left;
    border-width: 3px;
    padding: 10px;
    margin-bottom: 20px;
@@ -48,5 +47,7 @@ h2{
     font-weight: bold;
     text-decoration: underline;
   }
+
+  
 
 
