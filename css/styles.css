@@ -21,6 +21,8 @@ h2{
   background-color: darkseagreen;
   border: solid black;
   width: 15%;
+  margin-left: 20px;
+  margin-right: 20px;
  }
 
  .hobbies {
@@ -82,6 +84,11 @@ h2{
 
   .lines {
     text-decoration: underline;
+  }
+
+  p {
+    margin-right: 20px;
+    margin-left: 20px;
   }
 
   
