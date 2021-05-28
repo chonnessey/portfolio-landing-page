@@ -9,10 +9,9 @@
 h1{
   text-align: center;
   font-weight: bolder;
-  color: darkred;
+  color: black;
   margin-bottom: 20px;
   text-decoration: underline;
-  
 }
 
 h2{
@@ -101,19 +100,19 @@ h2{
   }
 
   .about-me {
-    color: coral;
+    color: black;
     font-size: large;
   }
 
   .background {
-    color: chocolate;
+    color: black;
     font-size: large;
   }
 
   .mc {
     font-weight: bolder;
     font-size: larger;
-    color: crimson;
+    color: black;
     text-decoration: underline;
   }
 
@@ -125,7 +124,7 @@ h2{
 
   .skill {
     font-size: larger;
-    color: maroon;
+    color: black;
     text-decoration: underline;
   }
 
