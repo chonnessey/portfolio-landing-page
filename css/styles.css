@@ -20,7 +20,7 @@ h2{
   margin-top: 50px;
   background-color: darkseagreen;
   border: solid black;
-  width: 15%;
+  width: 25%;
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -31,13 +31,13 @@ h2{
   margin-top: 50px;
   background-color: darkseagreen;
   border: solid black;
-  width: 25%;
+  width: 15%;
 }
 
 .Columns {
   border: solid black;
   background-color: bisque;
-  width: 10%;
+  width: 20%;
   border-width: 3px;
   padding: 10px;
   margin-bottom: 20px;
