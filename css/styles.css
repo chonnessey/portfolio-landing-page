@@ -12,7 +12,7 @@ h1{
   color: darkred;
   margin-bottom: 20px;
   text-decoration: underline;
-  font-family: 'Fredoka One', cursive;
+  
 }
 
 h2{
@@ -101,13 +101,11 @@ h2{
   }
 
   .about-me {
-    font-family: sans-serif;
     color: coral;
     font-size: large;
   }
 
   .background {
-    font-family: sans-serif;
     color: chocolate;
     font-size: large;
   }
@@ -121,20 +119,19 @@ h2{
 
   .pro {
     font-size: larger;
-    font-family: sans-serif;
     color: rgb(128, 68, 0);
     text-decoration: underline;
   }
 
   .skill {
     font-size: larger;
-    font-family: sans-serif;
     color: maroon;
     text-decoration: underline;
   }
 
   body {
     background: linear-gradient(to right, rgba(255, 255, 255, 0.356), rgba(149, 207, 149, 0.548));
+    font-family: 'Fredoka One', cursive;
   }
 
   .jumbotron {
