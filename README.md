@@ -20,12 +20,11 @@ _This application shows my understanding of HTML and CSS languages. There is als
 
 ## Setup/Installation Requirements
 
-* _VS code or text editor of your choice_
+* _Go to my portfolio-landing-page_
 * _PC/Mac_
 * _Github_
 * _Bootstrap external library_
 
-_Once in my repository {portfolio-landing-page} go ahead and clone the repository. You can do this by clicking the green drop down button that says "code". Copy the HTTPS URL onto your clipboard. Open up your terminal, use the command {$ git clone (followed by URL that is on your clipboard)}. Move the file into a directory of your choosing. Get into the directory using the command {$ cd}, open the file on your text editor of choice using the command {$ code .}. From there you will be able to Work on it freely!_
 
 ## Known Bugs
 
