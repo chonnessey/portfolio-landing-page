@@ -7,29 +7,29 @@
 
 #### By _**Adrian Camacho**_
 
-## Technologies Used
+## Technologies Used :floppy_disk:
 
 * _HTML_
 * _CSS_
 * _VS code_
 * _Bootstrap_
 
-## Description
+## Description :pencil:
 
 _This application shows my understanding of HTML and CSS languages. There is also a little bit of Bootstrap that I experimented with as well. I've given some insight about myself in this project while completing the objectives Epicodus set forth for me._
 
-## Setup/Installation Requirements
+## Setup/Installation Requirements :triangular_ruler:
 
 * Clone this repo: `git clone https://github.com/chonnessey/portfolio-landing-page`
 * Enter new directory `cd portfolio-landing-page`
 * Open file into a text editor of your choosing and work on it freely!
 
 
-## Known Bugs
+## Known Bugs :bug:
 
-* _No Known Bugs._
+* _No Known Bugs._ 
 
-## License
+## License :guardsman:
 
 Copyright 2021 <Adrian Camacho> :guardsman:
 
