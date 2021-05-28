@@ -137,5 +137,5 @@ h2{
   }
 
   .jumbotron {
-    background: linear-gradient();
+    background: linear-gradient(to right, rgba(149, 207, 149, 0.548), rgba(255, 255, 255, 0.356));
   }
