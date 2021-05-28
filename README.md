@@ -20,10 +20,9 @@ _This application shows my understanding of HTML and CSS languages. There is als
 
 ## Setup/Installation Requirements
 
-* _Go to my portfolio-landing-page_
-* _PC/Mac_
-* _Github_
-* _Bootstrap external library_
+* Clone this repo: `git clone https://github.com/chonnessey/portfolio-landing-page`
+* Enter new directory `cd portfolio-landing-page`
+* Open file into a text editor of your choosing and work on it freely!
 
 
 ## Known Bugs
